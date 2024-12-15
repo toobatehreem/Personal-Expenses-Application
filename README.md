@@ -1,4 +1,4 @@
-# BreadcrumbsPersonal-Expenses-Applicatio
+# Personal Expenses Application
 
 A new Flutter project.
 
